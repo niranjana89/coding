@@ -1,0 +1,3 @@
+- it is a behavioural design pattern
+- defines the steps in an algorithm
+- some of the steps have default implementation and let the subclass redefine the implementation
